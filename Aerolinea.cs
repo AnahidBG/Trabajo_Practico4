@@ -77,8 +77,7 @@ class Aerolinea
                 }
             }
         }
-        }
-        return vuelosOrdenados; // Retorna la lista de vuelos ordenados
+            return vuelosOrdenados; // Retorna la lista de vuelos ordenados
     }
 
     public List<Vuelo> ObtenerVuelos()
